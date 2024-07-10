@@ -1,7 +1,7 @@
 let numeroSecreto = 0;
 let intentos = 0;
 let numeroMaximo = 12;
-let maximoIntentos = 4;
+let maximoIntentos = 3;
 let numerosSorteados = [];
 
 function asignarTextoElemento(elemento, texto) {
